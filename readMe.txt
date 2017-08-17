@@ -14,3 +14,6 @@ Git tracks changes of files.
 
 
 This content will bean pushed to remote repository!!!
+
+
+Creating a new branch is quick.
